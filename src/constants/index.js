@@ -19,7 +19,8 @@ import {
   edunet,      // Add this icon manually if not present
   echohire,    // Add this image manually if not present
   medibot,     // Add this image manually if not present
-  aws_vpc,   // Add this image manually if not present
+  aws_vpc,
+  threejs   // Add this image manually if not present
 } from "../assets";
 
 
@@ -67,7 +68,7 @@ const technologies = [
   { name: "Tailwind CSS", icon: tailwind },
   { name: "Node JS", icon: nodejs },
   { name: "MongoDB", icon: mongodb },
-  // { name: "Three JS", icon: git },
+  { name: "Three JS", icon: threejs },
   { name: "git", icon: git },
   // { name: "figma", icon: figma },
   // { name: "docker", icon: docker },
