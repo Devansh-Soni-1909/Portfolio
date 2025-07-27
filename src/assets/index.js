@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -25,8 +25,13 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import edunet from "./company/edunet.png"
+import vault from "./company/vault.png"
 
 import carrent from "./carrent.png";
+import echohire from "./echohire.jpeg";
+import medibot from "./medibot.avif";
+import aws_vpc from "./aws_vpc.jpg";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -59,4 +64,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  edunet,
+  vault,
+  echohire,
+  medibot,
+  aws_vpc,
 };

@@ -23,10 +23,9 @@ const ServiceCard = ({ index, title, icon }) => (
       >
         <img
           src={icon}
-          alt='web-development'
+          alt='service-icon'
           className='w-16 h-16 object-contain'
         />
-
         <h3 className='text-white text-[20px] font-bold text-center'>
           {title}
         </h3>
@@ -47,11 +46,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a passionate Computer Science student with strong foundations in Data Structures, 
+        Web Development, and Artificial Intelligence. I’ve worked on full-stack projects using 
+        technologies like ReactJS, Next.js, Node.js, and Firebase, and developed AI-based systems 
+        with LangChain and Hugging Face. I'm also proficient in Python, C++, JavaScript, and have 
+        experience with cloud deployment on AWS and Vercel. I thrive on building scalable, efficient, 
+        and real-world tech solutions—especially in the domains of AI, healthcare, and automation.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
