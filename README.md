@@ -1,4 +1,4 @@
-# 💼 Devansh Soni's Developer Portfolio
+# 💼 My Portfolio
 
 A modern and responsive portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**,and **ThreeJS** designed to showcase my skills, projects, and professional journey in a clean, elegant way.
 
